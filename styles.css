@@ -1,0 +1,57 @@
+body {
+    background: linear-gradient(236.85deg, #041832 27.26%, #8c34a7 96.03%);
+    font-family: "Roboto", sans-serif;
+    margin: 0 px;
+}
+
+.container {
+  background: #f8f8f8;
+  color: #1C1C1C;
+  margin: 120px;
+  margin-right: 200px;
+  border-radius: 20px;
+  box-shadow: 6px 6px 6px #0E1D2F;
+  padding: 50px;
+}
+
+.foto-perfil{
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 868px;
+    top: 280px;
+    align-items: right;
+    backdrop-filter: blur(4px);
+    border-radius: 195.5px;
+}
+
+
+.cabecalho {
+    display: inline-flex;
+    flex-wrap: wrap;
+    margin: 6px;
+    gap: 12px;
+
+
+  }
+
+  .nome{
+    display: flex;
+    text-align: justify;
+    text-align: left;
+    padding-right: 600px;
+    padding-top: 80px;
+  }
+
+  .texto-principal{
+      display: flex;
+      text-align: justify;
+      text-align: left;
+      padding-right: 600px;
+
+      
+  }
+
+  .footer {
+      text-align: center;
+  }
